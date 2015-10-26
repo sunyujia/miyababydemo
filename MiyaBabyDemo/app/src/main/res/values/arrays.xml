@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filterChineseName">
+        <item>原图</item>
+        <item>秋色</item>
+        <item>柔肤</item>
+        <item>艳丽</item>
+        <item>时光</item>
+        <item>鲜美</item>
+        <item>下午茶</item>
+        <item>嫩白</item>
+        <item>流年</item>
+    </string-array>
+    <string-array name="filterEnglishName">
+        <item>original</item>
+        <item>cqiuse</item>
+        <item>justsmooth</item>
+        <item>clyanli</item>
+        <item>clcaisefupian</item>
+        <item>clfood1</item>
+        <item>clfood5</item>
+        <item>cmeibai</item>
+        <item>clrise</item>
+    </string-array>
+    <string-array name="login_user_item_name">
+        <item>账户余额</item>
+        <item>红包</item>
+        <item>代金券</item>
+        <item>我的收藏</item>
+        <item>浏览记录</item>
+        <item>实名认证</item>
+        <item>收货地址</item>
+        <item>关注</item>
+        <item>粉丝</item>
+        <item>我的图片</item>
+        <item>我的清单</item>
+        <item>我的卖萌</item>
+        <item>蜜芽帮助</item>
+        <item>拨打热线</item>
+        <item>在线客服</item>
+        <item>设置</item>
+    </string-array>
+    <string-array name="no_login_user_item_name">
+        <item>浏览记录</item>
+        <item>给蜜芽个评价</item>
+        <item>关于蜜芽</item>
+        <item>版本信息</item>
+        <item>蜜芽帮助</item>
+        <item>在线客服</item>
+        <item>拨打热线</item>
+    </string-array>
+</resources>
